@@ -10,6 +10,8 @@
 
 ⭐ I would say that my main skill is the ability to learn fast and provide solutions to emerging problems, along with the curious spirit that drives me to learn new technologies.
 
+🌐 I speak English and Spanish
+
 ## Remarkable achievements
 - Founder of [Nuwebs](https://nuwebs.com.co).
 - Succesful Academic Supervisor at [Misión TIC 2022](https://www.misiontic2022.gov.co/portal/) with the [Ministry of Information and Communication Technologies of Colombia (MinTIC)](https://www.mintic.gov.co/portal/inicio/) and [UIS](https://uis.edu.co/en/).
